@@ -20,7 +20,8 @@
     "author": "Matthew Little",
     "contributors": [
         "vekexasia",
-        "TheSeven"
+        "TheSeven",
+        "Kris Klosterman"
     ],
     "main": "lib/index.js",
     "repository": {
