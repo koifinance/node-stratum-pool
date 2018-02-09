@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "0.1.9",
+    "version": "1.0.0",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
         "stratum",
@@ -19,6 +19,8 @@
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
+        "devnulled",
+        "foxer666",
         "vekexasia",
         "TheSeven",
         "Kris Klosterman"
@@ -32,7 +34,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "file://../node-multi-hashing"
+        "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=8.1.4"
