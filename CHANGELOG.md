@@ -12,6 +12,3 @@
 
 ## v1.0.3
 * Logging switched to winston
-* Fixed crash if there is no masternode payee winners
-* https://github.com/foxer666/node-open-mining-portal/issues/36
-* https://github.com/foxer666/node-open-mining-portal/issues/37
