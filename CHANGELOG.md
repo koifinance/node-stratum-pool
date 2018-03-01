@@ -9,3 +9,9 @@
 ## v1.0.2
 
 * Added x16r (Ravencoin) support. Thanks to a2hill
+
+## v1.0.3
+* Logging switched to winston
+* Fixed crash if there is no masternode payee winners
+* https://github.com/foxer666/node-open-mining-portal/issues/36
+* https://github.com/foxer666/node-open-mining-portal/issues/37
