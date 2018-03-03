@@ -12,3 +12,6 @@
 
 ## v1.0.3
 * Logging switched to winston
+
+## v1.0.4
+* https://github.com/foxer666/node-open-mining-portal/issues/40

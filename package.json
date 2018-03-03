@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
         "stratum",
