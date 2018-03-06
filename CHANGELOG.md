@@ -15,3 +15,6 @@
 
 ## v1.0.4
 * https://github.com/foxer666/node-open-mining-portal/issues/40
+
+## v1.0.5
+* https://github.com/foxer666/node-stratum-pool/issues/13
