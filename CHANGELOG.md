@@ -18,3 +18,6 @@
 
 ## v1.0.5
 * https://github.com/foxer666/node-stratum-pool/issues/13
+
+## v1.0.6
+* Update multihashing (fix neoscrypt)
