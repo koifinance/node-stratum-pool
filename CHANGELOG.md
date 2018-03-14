@@ -21,3 +21,6 @@
 
 ## v1.0.6
 * Update multihashing (fix neoscrypt)
+
+## v1.0.7
+* Update multihashing module
