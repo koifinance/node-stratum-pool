@@ -24,3 +24,6 @@
 
 ## v1.0.7
 * Update multihashing module
+
+## v1.0.8
+* https://github.com/foxer666/node-stratum-pool/issues/20
