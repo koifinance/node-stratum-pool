@@ -10,15 +10,18 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "lyra2rev2",
+        "nix"
     ],
-    "homepage": "https://github.com/foxer666/node-stratum-pool",
+    "homepage": "https://github.com/NixPlatform/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/foxer666/node-stratum-pool/issues"
+        "url": "https://github.com/NixPlatform/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
+        "Pieter Hamels",
         "devnulled",
         "foxer666",
         "vekexasia",
@@ -28,13 +31,14 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/foxer666/node-stratum-pool.git"
+        "url": "https://github.com/NixPlatform/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
+        "bitcoinjs-lib": "^3.3.2",
+        "multi-hashing": "git://github.com/NixPlatform/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=8.1.4"
