@@ -36,7 +36,16 @@
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
-        "bignum": "^0.12.5",
+        "bignum": {
+          "version": "^0.12.5",
+          "from": "bignum@0.12.5",
+          "dependencies": {
+            "node-pre-gyp": {
+              "version": "0.7.0",
+              "from": "node-pre-gyp@0.6.39"
+            }
+          }
+        }
         "bitcoinjs-lib": "^3.3.2",
         "multi-hashing": "git://github.com/NixPlatform/node-multi-hashing.git"
     },
