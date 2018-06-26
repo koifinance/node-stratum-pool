@@ -45,7 +45,7 @@
               "from": "node-pre-gyp@0.6.39"
             }
           }
-        }
+        },
         "bitcoinjs-lib": "^3.3.2",
         "multi-hashing": "git://github.com/NixPlatform/node-multi-hashing.git"
     },
